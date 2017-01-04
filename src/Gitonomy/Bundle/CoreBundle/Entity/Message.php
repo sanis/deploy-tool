@@ -21,7 +21,7 @@ use Gitonomy\Bundle\CoreBundle\Entity\Message\ForceMessage;
 /**
  * @author Julien DIDIER <genzo.wm@gmail.com>
  */
-class Message
+abstract class Message
 {
     protected $id;
     protected $feed;
