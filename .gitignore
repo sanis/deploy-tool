@@ -11,3 +11,6 @@
 /sample/
 /vendor/
 /web/bundles/
+*~
+.DS_Store
+/.idea/
